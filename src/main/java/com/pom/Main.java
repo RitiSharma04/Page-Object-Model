@@ -1,4 +1,4 @@
-package com.natwest;
+package com.pom;
 
 public class Main {
     public static void main(String[] args) {

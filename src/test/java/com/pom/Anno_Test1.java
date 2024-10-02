@@ -2,7 +2,7 @@ package com.pom;
 
 import org.testng.annotations.Test;
 
-public class Anno_Test {
+public class Anno_Test1 {
     @Test
     public void OrangeHRMVerifyLogin(){
         System.out.println("Login Validated");
